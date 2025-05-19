@@ -54,5 +54,4 @@ This work is licensed under a
 
 ##  Contact
 
-For questions or collaborations, please contact:  
-📧 anna31kovalenko@gmail.com
+anna31kovalenko@gmail.com
