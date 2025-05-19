@@ -32,7 +32,8 @@ This Excel file includes:
 
 
 This extended data supports the evaluation of **ARTIC-HELP workflows**  
-(**H**omebrew **E**nzymes for **L**ibrary **P**reparation), designed for amplicon-based sequencing using **off-the-shelf commercial enzymes** as alternatives to standard reagents in the ARTIC-LoCost protocol and the nanopore native barcoding workflow (ONT), including end-prep, barcode ligation, and adapter ligation. 
+(**H**omebrew **E**nzymes for **L**ibrary **P**reparation), designed for amplicon-based sequencing using **off-the-shelf commercial enzymes** as alternatives to standard reagents in the ARTIC-LoCost protocol and the nanopore native barcoding workflow (ONT), including end-prep, barcode ligation, and adapter ligation.
+
 Study Aim: Reducing supply chain dependencies for viral sequencing using ARTIC-HELP workflows
 
 ---
