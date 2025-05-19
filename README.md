@@ -12,7 +12,7 @@ This repository contains **extended data and supplementary materials** for the m
 
 This repository includes the following extended data files:
 
-###  `ARTIC-HELP_Extended data.xlsx`
+###  `ARTIC-HELP_Extended-data.xlsx`
 This Excel file includes:
 
 - **Table S1** – HELP Master Mix Recipes.  
@@ -30,7 +30,8 @@ This Excel file includes:
 
 ##  Description
 
-This dataset supports the evaluation of **HELP workflows** for amplicon-based sequencing using **off-the-shelf commercial enzymes** as alternatives to standard reagents in the ARTIC protocol. These results provide evidence for more **supply-resilient, cost-effective genomic surveillance strategies**, especially in resource-constrained or decentralized lab settings.
+This extended data supports the evaluation of **ARTIC-HELP workflows**  
+(**H**omebrew **E**nzymes for **L**ibrary **P**reparation), designed for amplicon-based sequencing using **off-the-shelf commercial enzymes** as alternatives to standard reagents in the ARTIC-LoCost protocol and the nanopore native barcoding workflow (ONT), including end-prep, barcode ligation, and adapter ligation.
 
 ---
 
