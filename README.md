@@ -4,7 +4,7 @@ This repository contains **extended data and supplementary materials** for the m
 
 **_“Reducing Supply Chain Dependencies for Viral Genomic Surveillance: Get by with a Little HELP from Commercial Enzymes Already in Your Lab Freezer”_**
 
-> ✏️ _Preprint link and author list will be added upon submission._
+> ✏️ _Kovalenko, G., Hosmillo, M., Kent, C., Rowe, K., Rambaut, A., Loman, N. J., Quick, J., & Goodfellow, I. (2025). Reducing supply chain dependencies for viral genomic surveillance: Get by with a little HELP from commercial enzymes already in your lab freezer. bioRxiv. https://doi.org/10.1101/2025.06.11.658579_
 
 ---
 
