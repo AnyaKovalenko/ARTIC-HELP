@@ -1,6 +1,6 @@
 # ARTIC-HELP: Extended Data Repository
 
-This repository contains **extended data and supplementary materials** for the manuscript:
+This repository contains the **underlying data, extended data, and supplementary materials** for the manuscript:
 
 **_“Reducing Supply Chain Dependencies for Viral Genomic Surveillance: Get by with a Little HELP from Commercial Enzymes Already in Your Lab Freezer”_**
 
@@ -9,8 +9,29 @@ This repository contains **extended data and supplementary materials** for the m
 ---
 
 ##  Contents
+This repository includes the following files:
 
-This repository includes the following extended data files:
+## Underlying Data
+All consensus sequences generated in this study are available in the `ARTIC-HELP_consensus-fasta.zip` archive. This file contains the following directories:
+
+- **`stage1_sars_cov_2_consensus/`**  
+  SARS-CoV-2 consensus sequences from workflows 1–6.  
+  Includes a control panel with four RNA concentrations derived from a lab-grown isolate  
+  (*SARS-CoV-2/human/Liverpool/REMRQ001/2020*).
+
+- **`stage2_sars_cov_2_consensus/`**  
+  SARS-CoV-2 consensus sequences from the same control panel (four RNA concentrations)  
+  derived from the lab-grown isolate (*SARS-CoV-2/human/Liverpool/REMRQ001/2020*).
+
+- **`stage3_sars_cov_2_consensus/`**  
+  SARS-CoV-2 consensus sequences from a clinical panel of 19 samples  
+  processed using three workflows: **LoCost**, **HELP-Ie (Platinum)**, and **HELP-IIe (EcoDry)**.
+
+- **`stage3_norovirus_gii_consensus/`**  
+  Norovirus GII consensus sequences from a clinical panel of 12 samples  
+  processed using three workflows: **LoCost**, **HELP-Ie (Platinum)**, and **HELP-IIIe (Q5)**.
+
+## Extended Data:
 
 ###  `ARTIC-HELP_Extended-data.xlsx`
 This Excel file includes:
@@ -30,8 +51,7 @@ This Excel file includes:
 
 ##  Description
 
-
-This extended data supports the evaluation of **ARTIC-HELP workflows**  
+This data supports the evaluation of **ARTIC-HELP workflows**  
 (**H**omebrew **E**nzymes for **L**ibrary **P**reparation), designed for amplicon-based sequencing using **commercial enzymes and buffers** as alternatives to standard reagents in the ARTIC-LoCost protocol and the nanopore native barcoding workflow (ONT), including RT, PCR, end-prep, barcode ligation, and adapter ligation.
 
 Study Aim: Reducing supply chain dependencies for viral sequencing using ARTIC-HELP workflows
