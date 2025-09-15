@@ -66,14 +66,9 @@ Kovalenko, G., et al. (2025). Reducing supply chain dependencies for viral genom
 
 ---
 
-##  License
+## License
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-This work is licensed under a  
-[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).  
-<br>
-<img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="License: CC BY-SA 4.0" />
-
-© 2025 Anna Kovalenko
 
 ---
 
