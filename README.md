@@ -4,7 +4,7 @@ This repository contains the **underlying data, extended data, and supplementary
 
 **_“Reducing Supply Chain Dependencies for Viral Genomic Surveillance: Get by with a Little HELP from Commercial Enzymes Already in Your Lab Freezer”_**
 
-> ✏️ _Kovalenko, G., Hosmillo, M., Kent, C., Rowe, K., Rambaut, A., Loman, N. J., Quick, J., & Goodfellow, I. (2025). Reducing supply chain dependencies for viral genomic surveillance: Get by with a little HELP from commercial enzymes already in your lab freezer. bioRxiv. https://doi.org/10.1101/2025.06.11.658579_
+> preprint..✏️ _Kovalenko, G., Hosmillo, M., Kent, C., Rowe, K., Rambaut, A., Loman, N. J., Quick, J., & Goodfellow, I. (2025). Reducing supply chain dependencies for viral genomic surveillance: Get by with a little HELP from commercial enzymes already in your lab freezer. bioRxiv. https://doi.org/10.1101/2025.06.11.658579_
 
 ---
 
@@ -51,8 +51,9 @@ This Excel file includes:
 
 ##  Description
 
-This data supports the evaluation of **ARTIC-HELP workflows**  
-(**H**omebrew **E**nzymes for **L**ibrary **P**reparation), designed as a flexible alternative to the ARTIC LoCost protocol. We designed HELP to include open-source substitutes for all key enzymatic steps in the native barcoding workflow (ONT), including end-repair, barcode ligation, and adapter ligation, making the workflow broadly applicable to any laboratory using nanopore sequencing. Rather than aiming to replace commercial enzyme mixes entirely, we focused on providing practical alternatives that use enzymes and buffers commonly found in standard molecular biology laboratories. 
+This data supports evaluation of **ARTIC-HELP**  
+(**H**omebrew **E**nzymes for **L**ibrary **P**reparation), designed as a flexible alternative to ARTIC LoCost protocol. HELP offers open-source substitutes for all key enzymatic steps in the native barcoding workflow (ONT), including end-repair, barcode ligation, and adapter ligation, making the workflow broadly applicable to any laboratory using nanopore sequencing. 
+The goal is to complement (not replace) commercial mixes with practical options that most molecular biology labs already have on hand.
 
 Study Aim: Reducing supply chain dependencies for viral sequencing using ARTIC-HELP workflows
 
