@@ -15,7 +15,7 @@ This repository includes the following files:
 All consensus sequences generated in this study are available in the `ARTIC-HELP_consensus-fasta.zip` archive. This file contains the following directories:
 
 - **`stage1_sars_cov_2_consensus/`**  
-  SARS-CoV-2 consensus sequences from the satge 1, workflows 1–6.  
+  SARS-CoV-2 consensus sequences from the stage 1, workflows 1–6.  
   Includes a control panel with four RNA concentrations derived from a lab-grown isolate  
   (*SARS-CoV-2/human/Liverpool/REMRQ001/2020*).
 
