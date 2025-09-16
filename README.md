@@ -52,7 +52,7 @@ This Excel file includes:
 ##  Description
 
 This data supports the evaluation of **ARTIC-HELP workflows**  
-(**H**omebrew **E**nzymes for **L**ibrary **P**reparation), designed for amplicon-based sequencing using **commercial enzymes and buffers** as alternatives to standard reagents in the ARTIC-LoCost protocol and the nanopore native barcoding workflow (ONT), including RT, PCR, end-prep, barcode ligation, and adapter ligation.
+(**H**omebrew **E**nzymes for **L**ibrary **P**reparation), designed as a flexible alternative to the ARTIC LoCost protocol. We designed HELP to include open-source substitutes for all key enzymatic steps in the native barcoding workflow (ONT), including end-repair, barcode ligation, and adapter ligation, making the workflow broadly applicable to any laboratory using nanopore sequencing. Rather than aiming to replace commercial enzyme mixes entirely, we focused on providing practical alternatives that use enzymes and buffers commonly found in standard molecular biology laboratories. 
 
 Study Aim: Reducing supply chain dependencies for viral sequencing using ARTIC-HELP workflows
 
