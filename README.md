@@ -63,7 +63,7 @@ Study Aim: Reducing supply chain dependencies for viral sequencing using ARTIC-H
 
 Please cite this dataset alongside the associated manuscript:
 
-Kovalenko, G., et al. (2025). Reducing supply chain dependencies for viral genomic surveillance: Get by with a little HELP from commercial enzymes already in your lab freezer. bioRxiv. https://doi.org/10.1101/2025.06.11.658579 
+Kovalenko G, Hosmillo M, Kent C et al. Reducing Supply Chain Dependencies for Viral Genomic Surveillance: Get by with a Little HELP from Commercial Enzymes already in your Lab Freezer. Wellcome Open Res 2026, 10:529 https://doi.org/10.12688/wellcomeopenres.24735.2
 
 ---
 
